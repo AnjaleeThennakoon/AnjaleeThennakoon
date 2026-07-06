@@ -3,6 +3,8 @@
 </p>
 
 
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -12,11 +14,13 @@
 
 - 📫 How to reach me **anjalikarukshani51@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/anjalee-rukshani-5a29382b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/anjalee-rukshani-5a29382b8" height="30" width="40" /></a>
 <a href="https://instagram.com/litqueenanjalee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="litqueenanjalee" height="30" width="40" /></a>
 </p>
+
 <br>
 <h3 align="left">GitHub Analytics</h3>
 <p align="center">
