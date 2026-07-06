@@ -84,4 +84,5 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjaleethennakoon&show_icons=true&locale=en" alt="anjaleethennakoon" /></p>
+![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+
