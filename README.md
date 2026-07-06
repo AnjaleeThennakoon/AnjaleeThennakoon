@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anjalika Thennakoon</h1>
+<img src= "https://www.google.com/imgres?q=coder%20images&imgurl=https%3A%2F%2Fimages.stockcake.com%2Fpublic%2F6%2F2%2F5%2F62597fb8-ae9a-400d-a6c5-daa7a5bac0f8_large%2Fcyberpunk-coder-working-stockcake.jpg&imgrefurl=https%3A%2F%2Fstockcake.com%2Fi%2Fcyberpunk-coder-working_2014502_1276109&docid=XVttZSBhZHB1LM&tbnid=FTIzLkGcWr48PM&vet=12ahUKEwiOl6WFtr6VAxUubmwGHRJbKTcQnPAOegUIjQEQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiOl6WFtr6VAxUubmwGHRJbKTcQnPAOegUIjQEQAA"
 <h3 align="center">Designing clarity, coding precision</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaleethennakoon&label=Profile%20views&color=0e75b6&style=flat" alt="anjaleethennakoon" /> </p>
